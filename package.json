@@ -1,0 +1,19 @@
+{
+  "name": "ExpressGQL",
+  "version": "1.0.0",
+  "description": "Express GraphQL Server with Lusca and DDoS Rate Limiting",
+  "main": "server.js",
+  "repository": "https://github.com/jonfairbanks/ExpressGQL",
+  "author": "Jon Fairbanks",
+  "license": "MIT",
+  "dependencies": {
+    "ddos": "^0.2.1",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "express-rate-limit": "^3.4.0",
+    "express-session": "^1.15.6",
+    "graphql": "^14.1.1",
+    "lusca": "^1.6.1",
+    "morgan": "^1.9.1"
+  }
+}
