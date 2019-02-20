@@ -1,5 +1,7 @@
 # ExpressGQL
 
+![ExpressGQL](https://raw.githubusercontent.com/Fairbanks-io/ExpressGQL/master/logo.png)
+
 Express GraphQL Server with Lusca and DDoS Rate Limiting
 
 #### Prerequisites
@@ -11,7 +13,7 @@ Express GraphQL Server with Lusca and DDoS Rate Limiting
 - Fetch the code using git or wget
 - While in the app directory, `yarn` or `npm install` to setup
 - Once complete, `yarn start` or `npm start` to launch the server
-- Navigate to <host>:8888 in your browser
+- Navigate to <host>:8888 in your browser to query using GraphiQL
 
 *[Optional] To keep ExpressGQL up and running behind the scenes, checkout [PM2](http://pm2.keymetrics.io/ "PM2").*
 
